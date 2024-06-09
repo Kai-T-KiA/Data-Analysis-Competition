@@ -1,1 +1,3 @@
-# Data-Analysis-Competition
+# データ分析コンペ
+
+データ分析コンペティションで作成したプログラム
