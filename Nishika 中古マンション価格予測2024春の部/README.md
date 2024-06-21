@@ -9,11 +9,20 @@
 ## 開発言語・ライブラリ・フレームワーク
 ・Python
 ・LightGBM
+・scikit-learn
+・pandas
+・numpy
+・glob
 
 
 ## 使用モデル
 ・LightGBM
 
 ## 使用データ
+Nishikaが用意したデータ
 
 ## 評価指標
+MAE（平均絶対値誤差）
+
+## テストスコア
+0.193390 (104位　１１５人中)
