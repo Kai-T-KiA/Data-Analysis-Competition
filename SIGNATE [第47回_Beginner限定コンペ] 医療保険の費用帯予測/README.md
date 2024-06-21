@@ -12,6 +12,7 @@ Google Colablatory
 ## 開発言語・ライブラリ・フレームワーク
 ・Python
 ・numpy
+・pandas
 ・seaborn
 ・scikit-learn
 ・Optuna
