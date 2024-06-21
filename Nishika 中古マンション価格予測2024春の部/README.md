@@ -16,7 +16,7 @@
 
 
 ## 使用モデル
-・LightGBM
+・LightGBMRegressor
 
 ## 使用データ
 Nishikaが用意したデータ
