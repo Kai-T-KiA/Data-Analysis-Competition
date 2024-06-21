@@ -14,6 +14,7 @@ Google Colablatory
 ・numpy
 ・seaborn
 ・scikit-learn
+・Optuna
 
 
 ## 使用モデル
